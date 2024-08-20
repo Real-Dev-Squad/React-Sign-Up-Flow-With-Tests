@@ -1,6 +1,6 @@
-import StarbucksInput from './index.js';
+import StarbucksInput from './StarbucksInput.js';
 import { render, screen } from '@testing-library/react';
-import userEvent from '@testing-library/user-event'
+import userEvent from '@testing-library/user-event';
 
 describe.skip('starbucks input tests', () => {
   test('it renders input component', async () => {
