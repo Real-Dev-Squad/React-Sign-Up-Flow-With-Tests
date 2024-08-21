@@ -4,10 +4,10 @@
 
 Create a simple react app that has tests working
 
-Clone this repo and ensure that you are following [Git Flow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow) convention to 
-submitting PRs to your OWN repo
+Clone this repo and ensure that you are following [Git Flow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow) convention to submitting PRs to your OWN repo
 
 ## To Do
+
 - [ ] Setup testing framework
 - [ ] Add tests
 - [ ] Setup GitHub actions
@@ -37,7 +37,7 @@ Ensure that your milestone tests are passing, before submitting the PR
 
 ## Milestone vocabulary
 
-Starbucks has the following denotions for sizes:
+Starbucks has the following denotations for sizes:
 
 ```
 Tall - Small glass
@@ -56,7 +56,6 @@ Trenta - Biggest bucket
 
 - Testing Overview - [Official Docs](https://reactjs.org/docs/testing.html)
 
-
-##  What we will be developing?
+## What will we be developing?
 
 A guide for beginners to understand and learn Testing in ReactJS Project. This would be a detail documentation on Testing.

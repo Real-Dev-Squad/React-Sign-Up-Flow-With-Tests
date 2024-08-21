@@ -1,5 +1,5 @@
-export default function StartbucksInput() {
+export default function StarbucksInput() {
   return (
-    <div>StartBuckCoffee</div>
+    <div>Starbucks Coffee</div>
   )
 }
