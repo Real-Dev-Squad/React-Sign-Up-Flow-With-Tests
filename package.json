@@ -39,5 +39,8 @@
   "volta": {
     "node": "18.12.1",
     "yarn": "1.22.19"
+  },
+  "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11"
   }
 }
